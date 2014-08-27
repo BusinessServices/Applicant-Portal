@@ -1,7 +1,7 @@
-Applicant-Portal
+Latest announcements
 ================
 
-Project Repository for Applicant Portal
+Branch for Latest announcements Section
 
 -----------------------------------------
 
