@@ -1,7 +1,7 @@
-Applicant-Portal
+Outstanding-Tasks
 ================
 
-Project Repository for Applicant Portal
+Repository for Outstanding Tasks Section
 
 -----------------------------------------
 
