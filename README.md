@@ -1,7 +1,7 @@
 Outstanding-Tasks
 ================
 
-Repository for Outstanding Tasks Section
+Branch for Outstanding Tasks Section
 
 -----------------------------------------
 
